@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/loganjspears/joker/hand"
-	"github.com/loganjspears/joker/table"
+	"github.com/kkwteh/joker/hand"
+	"github.com/kkwteh/joker/table"
 )
 
 func register() {
