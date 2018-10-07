@@ -16,7 +16,7 @@ type Ranking int
 const (
 	// HighCard represents a hand composed of no pairs, straights, or flushes.
 	// Ex: A♠ K♠ J♣ 7♥ 5♦
-	HighCard Ranking = iota + 1
+	HighCard Ranking = iota
 
 	// Pair represents a hand composed of a single pair.
 	// Ex: A♠ A♣ K♣ J♥ 5♦
@@ -63,7 +63,7 @@ type Sorting int
 
 const (
 	// SortingHigh is a sorting method that will return the "high hand"
-	SortingHigh Sorting = iota + 1
+	SortingHigh Sorting = iota
 
 	// SortingLow is a sorting method that will return the "low hand"
 	SortingLow
@@ -74,7 +74,7 @@ type Ordering int
 
 const (
 	// ASC is ascending order
-	ASC Ordering = iota + 1
+	ASC Ordering = iota
 
 	// DESC is ascending order
 	DESC
