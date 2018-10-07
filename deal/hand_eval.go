@@ -1,8 +1,8 @@
 package deal
 
 import (
-	"github.com/notnil/joker/hand"
-	"github.com/notnil/joker/util"
+	"github.com/kkwteh/joker/hand"
+	"github.com/kkwteh/joker/util"
 )
 
 type ranker struct {

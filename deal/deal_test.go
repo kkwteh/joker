@@ -4,9 +4,9 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/notnil/joker/deal"
-	"github.com/notnil/joker/jokertest"
-	"github.com/notnil/joker/pot"
+	"github.com/kkwteh/joker/deal"
+	"github.com/kkwteh/joker/jokertest"
+	"github.com/kkwteh/joker/pot"
 )
 
 func TestHoldemCheckDown(t *testing.T) {

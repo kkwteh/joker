@@ -3,7 +3,7 @@ package pot_test
 import (
 	"testing"
 
-	"github.com/notnil/joker/pot"
+	"github.com/kkwteh/joker/pot"
 )
 
 func TestNewPot(t *testing.T) {

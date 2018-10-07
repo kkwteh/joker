@@ -3,7 +3,7 @@ package jokertest
 import (
 	"strings"
 
-	"github.com/notnil/joker/hand"
+	"github.com/kkwteh/joker/hand"
 )
 
 const (

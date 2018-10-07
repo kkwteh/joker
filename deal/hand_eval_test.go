@@ -3,8 +3,8 @@ package deal
 import (
 	"testing"
 
-	"github.com/notnil/joker/hand"
-	"github.com/notnil/joker/jokertest"
+	"github.com/kkwteh/joker/hand"
+	"github.com/kkwteh/joker/jokertest"
 )
 
 type evalTest struct {

@@ -5,8 +5,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/notnil/joker/hand"
-	. "github.com/notnil/joker/jokertest"
+	"github.com/kkwteh/joker/hand"
+	. "github.com/kkwteh/joker/jokertest"
 )
 
 type testPair struct {

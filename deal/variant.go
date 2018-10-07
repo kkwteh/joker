@@ -3,8 +3,8 @@ package deal
 import (
 	"errors"
 
-	"github.com/notnil/joker/hand"
-	"github.com/notnil/joker/pot"
+	"github.com/kkwteh/joker/hand"
+	"github.com/kkwteh/joker/pot"
 )
 
 // A Variant represents one of the different poker variations.
